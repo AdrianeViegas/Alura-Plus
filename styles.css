@@ -27,7 +27,7 @@ body {
 	align-items: center;
 	text-align: center;
 }
-/* heigth 100vh faz o sistema do site medir a tela do dispositivo que ta acessando o site e com base nisso mede o melhor tamanho que exibicao do site*/
+
 .container {
 	height: 100vh; 
 	display:grid;
